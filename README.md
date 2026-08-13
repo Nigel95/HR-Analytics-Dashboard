@@ -67,9 +67,6 @@ Puisque le niveau de satisfaction 3 concentre le plus de départs, il est recomm
 ### 5. Approfondir l'analyse de l'écart hommes/femmes dans l'attrition
 Avant de tirer des conclusions, il est recommandé de **comparer le taux d'attrition par genre à la répartition hommes/femmes des effectifs actifs**, afin de déterminer s'il existe un véritable déséquilibre à corriger ou si l'écart observé est simplement proportionnel à la composition de l'effectif.
 
-### 6. Prioriser les actions de rétention par taux d'attrition plutôt que par volume brut
-Au-delà du nombre brut de départs par département, il serait pertinent de **calculer le taux d'attrition rapporté à l'effectif de chaque département** afin d'identifier les équipes les plus fragiles proportionnellement, et non uniquement celles avec le plus grand nombre absolu de départs.
-
 ---
 
 ## 🛠️ Outils utilisés
@@ -78,5 +75,3 @@ Au-delà du nombre brut de départs par département, il serait pertinent de **c
 - **DAX** : calcul des indicateurs (KPIs, mesures)
 
 ---
-
-📫 N'hésitez pas à me contacter pour toute question ou collaboration.
