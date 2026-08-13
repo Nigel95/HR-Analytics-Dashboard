@@ -6,7 +6,7 @@ Ce projet propose un **dashboard interactif RH** permettant d'analyser les donn�
 
 Ce projet s'inscrit dans une démarche de **People Analytics**, appliquant les principes de la data visualization à la gestion des ressources humaines.
 
-![Aperçu du dashboard](images/dashboard_hr_preview.png)
+![Aperçu du dashboard](image/dashboard_hr_preview.png)
 
 ---
 
